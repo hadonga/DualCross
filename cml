@@ -1,0 +1,1 @@
+python main.py train  --logdir=./runs-lteacher  --dataroot=/data/nuscenes  --bsz=8  --gpuid=0  --domain_gap=True  --source='day'  --target='night'  --parser_name='lidarinputdata'  --up_scale=4  --color_jitter=True  --rand_resize=True  --teacher_student=True  --adv_training=False
