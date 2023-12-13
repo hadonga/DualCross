@@ -1,4 +1,4 @@
-docker build -t donghe/mtms_${1} .
+docker build -t dualcross_${1} .
 
 docker run -itd \
         --gpus all \
@@ -7,4 +7,4 @@ docker run -itd \
         -v ~/DualCross/:/workspace/DualCross \
         --privileged \
         --network=host \
-        donghe/mtms_${1}
+        dualcross_${1}

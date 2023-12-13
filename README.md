@@ -1,4 +1,6 @@
-Requirments need to be updated. 
+Run Docker to build environment 
+usage: 
+bash run_docker.sh donghe
 
 
 <!-- PROJECT LOGO -->
