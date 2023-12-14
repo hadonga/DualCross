@@ -1,10 +1,21 @@
 fire
+numpy
 matplotlib==3.3.4
 opencv-python==4.5.5.62
 pyquaternion==0.9.9
-numpy==1.20.3
 nuscenes-devkit==1.1.9
 lyft-dataset-sdk
 efficientnet-pytorch==0.7.0
 tensorboardx==2.4
 protobuf==3.19.1
+
+# fire
+# matplotlib==3.3.4
+# opencv-python==4.5.5.62
+# pyquaternion==0.9.9
+# numpy==1.20.3
+# nuscenes-devkit==1.1.9
+# lyft-dataset-sdk
+# efficientnet-pytorch==0.7.0
+# tensorboardx==2.4
+# protobuf==3.19.1

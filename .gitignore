@@ -115,6 +115,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/runs-lteacher
 
 # mypy
 .mypy_cache/

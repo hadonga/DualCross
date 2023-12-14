@@ -6,5 +6,6 @@ docker run -itd \
         -v /data:/data \
         -v ~/DualCross/:/workspace/DualCross \
         --privileged \
+        --shm-size=64g \
         --network=host \
         dualcross_${1}
